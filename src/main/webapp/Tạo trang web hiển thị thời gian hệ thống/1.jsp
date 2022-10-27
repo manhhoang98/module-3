@@ -11,6 +11,6 @@
     <title>Title</title>
 </head>
 <body>
-<A href="/thucHanh"><img src="https://huaf.edu.vn/wp-content/uploads/2019/05/FlatForkedIvorybilledwoodpecker-size_restricted.gif"></A>
+<A href="/thucHanh" style="text-align: center"><img src="https://huaf.edu.vn/wp-content/uploads/2019/05/FlatForkedIvorybilledwoodpecker-size_restricted.gif"></A>
 </body>
 </html>
